@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   sodipodi:docname="TheGlobalGoals_Icons_Color_Goal_4.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata4258">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2482"
+     inkscape:window-height="1411"
+     id="namedview4256"
+     showgrid="false"
+     inkscape:zoom="1.178"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4203">
+    <style
+       id="style4201">
+      .cls-1 {
+        fill: #c5192d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title
+     id="title4205">Artboard 1</title>
+  <rect
+     class="cls-1"
+     width="999.96"
+     height="1000"
+     id="rect4207" />
+  <path
+     class="cls-2"
+     d="M156.65,285.43h32.11V252.72h13.69V226.26H188.76V83.8H155.45L96.87,231.9v20.82h59.78Zm-30-59.17,30.33-83h.3v83Z"
+     id="path4241" />
+  <g
+     id="g4253">
+    <polygon
+       class="cls-2"
+       points="438.3 536.19 258.96 432.63 258.96 767.63 438.3 821.74 438.3 536.19"
+       id="polygon4243" />
+    <polygon
+       class="cls-2"
+       points="458.03 536.87 458.03 821.86 638.53 767.59 638.53 432.64 458.03 536.87"
+       id="polygon4245" />
+    <path
+       class="cls-2"
+       d="M779.32,424.15a21.22,21.22,0,1,0-42.43,0V447h42.43Z"
+       id="path4247" />
+    <polygon
+       class="cls-2"
+       points="742.16 761.69 736.89 761.69 758.12 835.85 779.31 761.69 774.04 761.69 779.31 761.69 779.31 463.64 774.04 463.64 768.77 463.64 763.19 463.64 752.63 463.64 747.42 463.64 742.16 463.64 736.88 463.64 736.88 761.69 742.16 761.69"
+       id="polygon4249" />
+    <polygon
+       class="cls-2"
+       points="677.06 447.02 657.83 431.83 657.83 776.72 458.56 841.11 449.34 841.11 447.51 841.11 438.3 841.11 239.92 785.68 239.92 431.83 220.68 447.02 220.68 799.17 437.39 859.17 447.51 859.17 449.34 859.17 459.46 859.17 659.4 795.69 677.06 790.49 677.06 447.02"
+       id="polygon4251" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="284.33334"
+     y="207.79167"
+     id="text3853"><tspan
+       sodipodi:role="line"
+       id="tspan3851"
+       x="284.33334"
+       y="207.79167"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';fill:#ffffff">优质教育</tspan></text>
+</svg>
